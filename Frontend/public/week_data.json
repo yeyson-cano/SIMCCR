@@ -1,0 +1,5672 @@
+[
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739839702657,
+    "temperature": 6.15,
+    "co2": 7915.15,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739840002657,
+    "temperature": 6.03,
+    "co2": 7833.22,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739840302657,
+    "temperature": 5.88,
+    "co2": 7880.05,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739840602657,
+    "temperature": 6.19,
+    "co2": 8009.51,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739840902657,
+    "temperature": 6.3,
+    "co2": 8123.62,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739841202657,
+    "temperature": 6.36,
+    "co2": 8091.58,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739841502657,
+    "temperature": 6.5,
+    "co2": 8250.22,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739841802657,
+    "temperature": 6.55,
+    "co2": 8156.64,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739842102657,
+    "temperature": 6.79,
+    "co2": 8236.32,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739842402657,
+    "temperature": 6.64,
+    "co2": 8432.01,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739842702657,
+    "temperature": 6.51,
+    "co2": 8395.66,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739843002657,
+    "temperature": 6.72,
+    "co2": 8560.62,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739843302657,
+    "temperature": 6.79,
+    "co2": 8507.08,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739843602657,
+    "temperature": 6.89,
+    "co2": 8514.64,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739843902657,
+    "temperature": 6.98,
+    "co2": 9208.05,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739844202657,
+    "temperature": 7.04,
+    "co2": 8965.61,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739844502657,
+    "temperature": 7.42,
+    "co2": 8973.19,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739844802657,
+    "temperature": 7.41,
+    "co2": 8705.28,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739845102657,
+    "temperature": 7.4,
+    "co2": 8811.82,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739845402657,
+    "temperature": 7.69,
+    "co2": 8742.97,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739845702657,
+    "temperature": 7.71,
+    "co2": 8680.82,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739846002657,
+    "temperature": 7.7,
+    "co2": 8894.76,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739846302657,
+    "temperature": 7.63,
+    "co2": 8851.21,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739846602657,
+    "temperature": 7.76,
+    "co2": 8863.04,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739846902657,
+    "temperature": 7.94,
+    "co2": 8853.14,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739847202657,
+    "temperature": 7.81,
+    "co2": 9056.0,
+    "type": "DATA",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739847502657,
+    "temperature": 7.94,
+    "co2": 10114.89,
+    "type": "ALERT_CO2",
+    "fanState": false,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739847802657,
+    "temperature": 7.9,
+    "co2": 9546.41,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739848102657,
+    "temperature": 7.99,
+    "co2": 9361.79,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739848402657,
+    "temperature": 7.88,
+    "co2": 9344.05,
+    "type": "DATA",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739848702657,
+    "temperature": 8.19,
+    "co2": 9377.84,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739849002657,
+    "temperature": 8.17,
+    "co2": 9449.47,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739849302657,
+    "temperature": 8.24,
+    "co2": 9484.21,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739849602657,
+    "temperature": 8.42,
+    "co2": 9377.96,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739849902657,
+    "temperature": 8.23,
+    "co2": 9463.06,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739850202657,
+    "temperature": 8.46,
+    "co2": 9305.4,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739850502657,
+    "temperature": 8.46,
+    "co2": 9357.81,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739850802657,
+    "temperature": 8.63,
+    "co2": 9531.82,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739851102657,
+    "temperature": 8.58,
+    "co2": 9605.29,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739851402657,
+    "temperature": 8.78,
+    "co2": 9512.99,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739851702657,
+    "temperature": 8.7,
+    "co2": 9672.43,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739852002657,
+    "temperature": 8.51,
+    "co2": 9490.29,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739852302657,
+    "temperature": 8.73,
+    "co2": 9574.11,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739852602657,
+    "temperature": 8.63,
+    "co2": 9466.56,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739852902657,
+    "temperature": 8.72,
+    "co2": 9500.16,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739853202657,
+    "temperature": 8.97,
+    "co2": 9482.37,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739853502657,
+    "temperature": 8.77,
+    "co2": 9500.49,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739853802657,
+    "temperature": 8.66,
+    "co2": 9707.59,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739854102657,
+    "temperature": 8.89,
+    "co2": 9592.25,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739854402657,
+    "temperature": 8.94,
+    "co2": 9660.24,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739854702657,
+    "temperature": 8.95,
+    "co2": 9581.05,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739855002657,
+    "temperature": 9.19,
+    "co2": 9610.75,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739855302657,
+    "temperature": 9.16,
+    "co2": 9671.84,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739855602657,
+    "temperature": 9.21,
+    "co2": 9650.7,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739855902657,
+    "temperature": 9.23,
+    "co2": 9882.48,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739856202657,
+    "temperature": 9.06,
+    "co2": 9738.0,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739856502657,
+    "temperature": 9.46,
+    "co2": 9892.55,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739856802657,
+    "temperature": 9.18,
+    "co2": 9875.14,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739857102657,
+    "temperature": 9.27,
+    "co2": 9864.79,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739857402657,
+    "temperature": 9.23,
+    "co2": 9876.34,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739857702657,
+    "temperature": 9.52,
+    "co2": 9799.48,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739858002657,
+    "temperature": 9.43,
+    "co2": 9991.74,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739858302657,
+    "temperature": 9.59,
+    "co2": 10057.47,
+    "type": "ALERT_BOTH",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739858602657,
+    "temperature": 9.56,
+    "co2": 9974.77,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739858902657,
+    "temperature": 9.39,
+    "co2": 9958.68,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739859202657,
+    "temperature": 9.53,
+    "co2": 9899.31,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739859502657,
+    "temperature": 9.31,
+    "co2": 9839.08,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739859802657,
+    "temperature": 9.51,
+    "co2": 9976.29,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739860102657,
+    "temperature": 9.34,
+    "co2": 9934.32,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739860402657,
+    "temperature": 9.36,
+    "co2": 9861.52,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739860702657,
+    "temperature": 9.5,
+    "co2": 9902.13,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739861002657,
+    "temperature": 9.68,
+    "co2": 9880.76,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739861302657,
+    "temperature": 9.87,
+    "co2": 9868.16,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739861602657,
+    "temperature": 9.96,
+    "co2": 9981.87,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739861902657,
+    "temperature": 9.67,
+    "co2": 10051.07,
+    "type": "ALERT_BOTH",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739862202657,
+    "temperature": 10.56,
+    "co2": 9996.75,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739862502657,
+    "temperature": 10.11,
+    "co2": 9950.34,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739862802657,
+    "temperature": 9.89,
+    "co2": 9837.58,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739863102657,
+    "temperature": 9.91,
+    "co2": 9911.17,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739863402657,
+    "temperature": 9.84,
+    "co2": 9823.39,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739863702657,
+    "temperature": 9.73,
+    "co2": 9981.83,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739864002657,
+    "temperature": 9.58,
+    "co2": 9861.57,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739864302657,
+    "temperature": 9.65,
+    "co2": 9860.38,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739864602657,
+    "temperature": 9.58,
+    "co2": 9778.8,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739864902657,
+    "temperature": 9.43,
+    "co2": 9943.77,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739865202657,
+    "temperature": 9.56,
+    "co2": 9964.75,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739865502657,
+    "temperature": 9.47,
+    "co2": 9977.57,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739865802657,
+    "temperature": 9.61,
+    "co2": 10006.56,
+    "type": "ALERT_BOTH",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739866102657,
+    "temperature": 9.3,
+    "co2": 9957.27,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739866402657,
+    "temperature": 9.19,
+    "co2": 9815.27,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739866702657,
+    "temperature": 9.21,
+    "co2": 9835.0,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739867002657,
+    "temperature": 9.19,
+    "co2": 9807.76,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739867302657,
+    "temperature": 10.4,
+    "co2": 9752.2,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739867602657,
+    "temperature": 9.67,
+    "co2": 9880.78,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739867902657,
+    "temperature": 9.42,
+    "co2": 9776.98,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739868202657,
+    "temperature": 9.3,
+    "co2": 9617.02,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739868502657,
+    "temperature": 9.37,
+    "co2": 9655.45,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739868802657,
+    "temperature": 9.39,
+    "co2": 9632.2,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739869102657,
+    "temperature": 9.1,
+    "co2": 9737.95,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739869402657,
+    "temperature": 9.25,
+    "co2": 9574.63,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739869702657,
+    "temperature": 9.13,
+    "co2": 9750.78,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739870002657,
+    "temperature": 9.15,
+    "co2": 9827.13,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739870302657,
+    "temperature": 8.81,
+    "co2": 9628.2,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739870602657,
+    "temperature": 8.84,
+    "co2": 9574.33,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739870902657,
+    "temperature": 8.56,
+    "co2": 9670.55,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739871202657,
+    "temperature": 8.46,
+    "co2": 9592.22,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739871502657,
+    "temperature": 8.36,
+    "co2": 9483.04,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739871802657,
+    "temperature": 8.18,
+    "co2": 9344.69,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739872102657,
+    "temperature": 8.3,
+    "co2": 9281.28,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739872402657,
+    "temperature": 8.53,
+    "co2": 9377.83,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739872702657,
+    "temperature": 8.59,
+    "co2": 9445.13,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739873002657,
+    "temperature": 8.19,
+    "co2": 9273.07,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739873302657,
+    "temperature": 8.0,
+    "co2": 9174.2,
+    "type": "DATA",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739873602657,
+    "temperature": 8.24,
+    "co2": 9347.46,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739873902657,
+    "temperature": 8.21,
+    "co2": 9285.79,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739874202657,
+    "temperature": 8.25,
+    "co2": 9180.52,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739874502657,
+    "temperature": 8.29,
+    "co2": 9134.16,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739874802657,
+    "temperature": 7.84,
+    "co2": 9792.16,
+    "type": "DATA",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739875102657,
+    "temperature": 7.78,
+    "co2": 9302.83,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739875402657,
+    "temperature": 7.69,
+    "co2": 9151.18,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739875702657,
+    "temperature": 7.88,
+    "co2": 9147.21,
+    "type": "DATA",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739876002657,
+    "temperature": 7.9,
+    "co2": 8972.59,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739876302657,
+    "temperature": 7.84,
+    "co2": 8841.0,
+    "type": "DATA",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739876602657,
+    "temperature": 7.69,
+    "co2": 8815.29,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739876902657,
+    "temperature": 7.75,
+    "co2": 8787.08,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739877202657,
+    "temperature": 7.9,
+    "co2": 8855.14,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739877502657,
+    "temperature": 7.78,
+    "co2": 8935.71,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739877802657,
+    "temperature": 7.54,
+    "co2": 8939.48,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739878102657,
+    "temperature": 7.31,
+    "co2": 8866.32,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739878402657,
+    "temperature": 7.18,
+    "co2": 8723.24,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739878702657,
+    "temperature": 8.6,
+    "co2": 8630.72,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739879002657,
+    "temperature": 7.72,
+    "co2": 8623.5,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739879302657,
+    "temperature": 7.61,
+    "co2": 8466.29,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739879602657,
+    "temperature": 7.16,
+    "co2": 8617.72,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739879902657,
+    "temperature": 7.14,
+    "co2": 8644.79,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739880202657,
+    "temperature": 6.93,
+    "co2": 8642.32,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739880502657,
+    "temperature": 6.75,
+    "co2": 8481.67,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739880802657,
+    "temperature": 6.76,
+    "co2": 8496.34,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739881102657,
+    "temperature": 6.63,
+    "co2": 8280.82,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739881402657,
+    "temperature": 6.76,
+    "co2": 8349.01,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739881702657,
+    "temperature": 6.72,
+    "co2": 8271.79,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739882002657,
+    "temperature": 6.65,
+    "co2": 8056.8,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739882302657,
+    "temperature": 6.2,
+    "co2": 8058.71,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739882602657,
+    "temperature": 6.04,
+    "co2": 7923.02,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739882902657,
+    "temperature": 6.14,
+    "co2": 7956.56,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739883202657,
+    "temperature": 5.92,
+    "co2": 7981.04,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739883502657,
+    "temperature": 6.1,
+    "co2": 8065.06,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739883802657,
+    "temperature": 6.14,
+    "co2": 7972.69,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739884102657,
+    "temperature": 6.04,
+    "co2": 7948.78,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739884402657,
+    "temperature": 5.93,
+    "co2": 8007.48,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739884702657,
+    "temperature": 5.52,
+    "co2": 7743.52,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739885002657,
+    "temperature": 5.66,
+    "co2": 7869.59,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739885302657,
+    "temperature": 5.33,
+    "co2": 7861.9,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739885602657,
+    "temperature": 5.35,
+    "co2": 7625.54,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739885902657,
+    "temperature": 5.11,
+    "co2": 7591.21,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739886202657,
+    "temperature": 5.0,
+    "co2": 7659.95,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739886502657,
+    "temperature": 4.95,
+    "co2": 7630.88,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739886802657,
+    "temperature": 4.71,
+    "co2": 7424.49,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739887102657,
+    "temperature": 4.53,
+    "co2": 7414.98,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739887402657,
+    "temperature": 6.24,
+    "co2": 7265.9,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739887702657,
+    "temperature": 5.59,
+    "co2": 7209.31,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739888002657,
+    "temperature": 4.88,
+    "co2": 7150.68,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739888302657,
+    "temperature": 4.69,
+    "co2": 7203.11,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739888602657,
+    "temperature": 4.3,
+    "co2": 7164.94,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739888902657,
+    "temperature": 4.11,
+    "co2": 7210.72,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739889202657,
+    "temperature": 4.22,
+    "co2": 7165.43,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739889502657,
+    "temperature": 4.13,
+    "co2": 7004.71,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739889802657,
+    "temperature": 4.12,
+    "co2": 7136.67,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739890102657,
+    "temperature": 4.22,
+    "co2": 7148.64,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739890402657,
+    "temperature": 4.15,
+    "co2": 6944.64,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739890702657,
+    "temperature": 3.99,
+    "co2": 7065.57,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739891002657,
+    "temperature": 3.72,
+    "co2": 6930.19,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739891302657,
+    "temperature": 3.66,
+    "co2": 6744.63,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739891602657,
+    "temperature": 3.63,
+    "co2": 6910.22,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739891902657,
+    "temperature": 3.53,
+    "co2": 6818.85,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739892202657,
+    "temperature": 3.32,
+    "co2": 6913.31,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739892502657,
+    "temperature": 3.38,
+    "co2": 6859.21,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739892802657,
+    "temperature": 3.46,
+    "co2": 6851.51,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739893102657,
+    "temperature": 3.34,
+    "co2": 6833.54,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739893402657,
+    "temperature": 3.52,
+    "co2": 7276.69,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739893702657,
+    "temperature": 3.53,
+    "co2": 6957.91,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739894002657,
+    "temperature": 4.59,
+    "co2": 6816.52,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739894302657,
+    "temperature": 3.73,
+    "co2": 6538.8,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739894602657,
+    "temperature": 3.35,
+    "co2": 6557.84,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739894902657,
+    "temperature": 3.24,
+    "co2": 6659.15,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739895202657,
+    "temperature": 3.27,
+    "co2": 6587.11,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739895502657,
+    "temperature": 3.21,
+    "co2": 6418.52,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739895802657,
+    "temperature": 3.13,
+    "co2": 6361.55,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739896102657,
+    "temperature": 2.78,
+    "co2": 6472.68,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739896402657,
+    "temperature": 2.56,
+    "co2": 6485.6,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739896702657,
+    "temperature": 2.64,
+    "co2": 6395.53,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739897002657,
+    "temperature": 2.51,
+    "co2": 6388.05,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739897302657,
+    "temperature": 2.7,
+    "co2": 7334.11,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739897602657,
+    "temperature": 2.59,
+    "co2": 6850.08,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739897902657,
+    "temperature": 2.34,
+    "co2": 6647.1,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739898202657,
+    "temperature": 2.59,
+    "co2": 6431.49,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739898502657,
+    "temperature": 2.32,
+    "co2": 6370.92,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739898802657,
+    "temperature": 2.25,
+    "co2": 6279.54,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739899102657,
+    "temperature": 2.38,
+    "co2": 6135.8,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739899402657,
+    "temperature": 2.33,
+    "co2": 6178.56,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739899702657,
+    "temperature": 2.1,
+    "co2": 6115.46,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739900002657,
+    "temperature": 2.03,
+    "co2": 6029.51,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739900302657,
+    "temperature": 2.25,
+    "co2": 5975.53,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739900602657,
+    "temperature": 1.96,
+    "co2": 6006.51,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739900902657,
+    "temperature": 2.1,
+    "co2": 6647.16,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739901202657,
+    "temperature": 1.93,
+    "co2": 7254.96,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739901502657,
+    "temperature": 3.52,
+    "co2": 6792.8,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739901802657,
+    "temperature": 2.88,
+    "co2": 6542.81,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739902102657,
+    "temperature": 2.61,
+    "co2": 6184.23,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739902402657,
+    "temperature": 2.12,
+    "co2": 6209.53,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739902702657,
+    "temperature": 2.06,
+    "co2": 6210.18,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739903002657,
+    "temperature": 1.88,
+    "co2": 6119.4,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739903302657,
+    "temperature": 2.04,
+    "co2": 6068.94,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739903602657,
+    "temperature": 1.99,
+    "co2": 5908.76,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739903902657,
+    "temperature": 1.91,
+    "co2": 5999.57,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739904202657,
+    "temperature": 1.91,
+    "co2": 6028.38,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739904502657,
+    "temperature": 1.89,
+    "co2": 6136.89,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739904802657,
+    "temperature": 2.08,
+    "co2": 6197.29,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739905102657,
+    "temperature": 1.91,
+    "co2": 6178.69,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739905402657,
+    "temperature": 1.71,
+    "co2": 6119.05,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739905702657,
+    "temperature": 2.01,
+    "co2": 6156.72,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739906002657,
+    "temperature": 2.02,
+    "co2": 5937.94,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739906302657,
+    "temperature": 2.19,
+    "co2": 6031.91,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739906602657,
+    "temperature": 1.94,
+    "co2": 5924.87,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739906902657,
+    "temperature": 1.87,
+    "co2": 7364.46,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739907202657,
+    "temperature": 1.85,
+    "co2": 6798.16,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739907502657,
+    "temperature": 2.18,
+    "co2": 6467.41,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739907802657,
+    "temperature": 2.13,
+    "co2": 6135.64,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739908102657,
+    "temperature": 2.04,
+    "co2": 6075.95,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739908402657,
+    "temperature": 1.87,
+    "co2": 5992.85,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739908702657,
+    "temperature": 2.26,
+    "co2": 6148.94,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739909002657,
+    "temperature": 2.1,
+    "co2": 6104.61,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739909302657,
+    "temperature": 2.18,
+    "co2": 6203.33,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739909602657,
+    "temperature": 2.32,
+    "co2": 6228.07,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739909902657,
+    "temperature": 2.38,
+    "co2": 6247.81,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739910202657,
+    "temperature": 2.61,
+    "co2": 6099.15,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739910502657,
+    "temperature": 2.71,
+    "co2": 6121.46,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739910802657,
+    "temperature": 2.63,
+    "co2": 6231.52,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739911102657,
+    "temperature": 2.42,
+    "co2": 6271.53,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739911402657,
+    "temperature": 2.49,
+    "co2": 6209.49,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739911702657,
+    "temperature": 2.27,
+    "co2": 6240.51,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739912002657,
+    "temperature": 2.63,
+    "co2": 6325.7,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739912302657,
+    "temperature": 2.45,
+    "co2": 6292.4,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739912602657,
+    "temperature": 2.39,
+    "co2": 6428.36,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739912902657,
+    "temperature": 2.5,
+    "co2": 6399.41,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739913202657,
+    "temperature": 2.46,
+    "co2": 6271.03,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739913502657,
+    "temperature": 2.62,
+    "co2": 6423.21,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739913802657,
+    "temperature": 2.9,
+    "co2": 6511.88,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739914102657,
+    "temperature": 2.78,
+    "co2": 6340.99,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739914402657,
+    "temperature": 2.77,
+    "co2": 6429.09,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739914702657,
+    "temperature": 2.95,
+    "co2": 6617.33,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739915002657,
+    "temperature": 3.07,
+    "co2": 6460.0,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739915302657,
+    "temperature": 3.32,
+    "co2": 6417.97,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739915602657,
+    "temperature": 3.1,
+    "co2": 6578.96,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739915902657,
+    "temperature": 3.02,
+    "co2": 6759.95,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739916202657,
+    "temperature": 3.14,
+    "co2": 6716.09,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739916502657,
+    "temperature": 3.49,
+    "co2": 6783.55,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739916802657,
+    "temperature": 3.38,
+    "co2": 6633.83,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739917102657,
+    "temperature": 5.09,
+    "co2": 6650.63,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739917402657,
+    "temperature": 4.47,
+    "co2": 6585.01,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739917702657,
+    "temperature": 4.94,
+    "co2": 6674.37,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739918002657,
+    "temperature": 4.55,
+    "co2": 6795.7,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739918302657,
+    "temperature": 4.05,
+    "co2": 6976.75,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739918602657,
+    "temperature": 4.0,
+    "co2": 6875.34,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739918902657,
+    "temperature": 4.12,
+    "co2": 7086.94,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739919202657,
+    "temperature": 3.92,
+    "co2": 7164.36,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739919502657,
+    "temperature": 4.2,
+    "co2": 6970.73,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739919802657,
+    "temperature": 4.33,
+    "co2": 7058.71,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739920102657,
+    "temperature": 4.39,
+    "co2": 7081.49,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739920402657,
+    "temperature": 4.48,
+    "co2": 7210.59,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739920702657,
+    "temperature": 4.35,
+    "co2": 7278.96,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739921002657,
+    "temperature": 4.32,
+    "co2": 7168.2,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739921302657,
+    "temperature": 4.53,
+    "co2": 7301.57,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739921602657,
+    "temperature": 4.42,
+    "co2": 7257.44,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739921902657,
+    "temperature": 4.75,
+    "co2": 7252.49,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739922202657,
+    "temperature": 4.83,
+    "co2": 7329.63,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739922502657,
+    "temperature": 4.75,
+    "co2": 7404.3,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739922802657,
+    "temperature": 4.9,
+    "co2": 7594.39,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739923102657,
+    "temperature": 5.09,
+    "co2": 7488.12,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739923402657,
+    "temperature": 5.29,
+    "co2": 7552.69,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739923702657,
+    "temperature": 5.25,
+    "co2": 7525.66,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739924002657,
+    "temperature": 5.56,
+    "co2": 7581.94,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739924302657,
+    "temperature": 5.38,
+    "co2": 7613.73,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739924602657,
+    "temperature": 5.32,
+    "co2": 7603.79,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739924902657,
+    "temperature": 5.27,
+    "co2": 7860.59,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739925202657,
+    "temperature": 5.63,
+    "co2": 7815.15,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739925502657,
+    "temperature": 5.92,
+    "co2": 7973.35,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739925802657,
+    "temperature": 5.93,
+    "co2": 7842.48,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739926102657,
+    "temperature": 6.1,
+    "co2": 7992.45,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739926402657,
+    "temperature": 5.95,
+    "co2": 8030.86,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739926702657,
+    "temperature": 5.88,
+    "co2": 8023.47,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739927002657,
+    "temperature": 5.88,
+    "co2": 8144.42,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739927302657,
+    "temperature": 5.87,
+    "co2": 8231.56,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739927602657,
+    "temperature": 6.07,
+    "co2": 8255.71,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739927902657,
+    "temperature": 6.22,
+    "co2": 8184.22,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739928202657,
+    "temperature": 6.49,
+    "co2": 8161.14,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739928502657,
+    "temperature": 6.78,
+    "co2": 8111.26,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739928802657,
+    "temperature": 6.75,
+    "co2": 8324.84,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739929102657,
+    "temperature": 7.0,
+    "co2": 8469.43,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739929402657,
+    "temperature": 6.88,
+    "co2": 8336.79,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739929702657,
+    "temperature": 6.95,
+    "co2": 8318.77,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739930002657,
+    "temperature": 7.07,
+    "co2": 8397.35,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739930302657,
+    "temperature": 7.36,
+    "co2": 8589.76,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739930602657,
+    "temperature": 7.42,
+    "co2": 8606.49,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739930902657,
+    "temperature": 7.6,
+    "co2": 8713.85,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739931202657,
+    "temperature": 7.75,
+    "co2": 8860.71,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739931502657,
+    "temperature": 7.5,
+    "co2": 8666.35,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739931802657,
+    "temperature": 7.33,
+    "co2": 8708.4,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739932102657,
+    "temperature": 7.3,
+    "co2": 8756.78,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739932402657,
+    "temperature": 7.68,
+    "co2": 8835.58,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739932702657,
+    "temperature": 7.53,
+    "co2": 8824.23,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739933002657,
+    "temperature": 7.5,
+    "co2": 8783.97,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739933302657,
+    "temperature": 7.69,
+    "co2": 9028.12,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739933602657,
+    "temperature": 7.71,
+    "co2": 9064.27,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739933902657,
+    "temperature": 7.9,
+    "co2": 9166.36,
+    "type": "DATA",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739934202657,
+    "temperature": 8.03,
+    "co2": 9123.33,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739934502657,
+    "temperature": 8.08,
+    "co2": 9251.28,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739934802657,
+    "temperature": 8.15,
+    "co2": 9300.27,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739935102657,
+    "temperature": 8.24,
+    "co2": 9109.93,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739935402657,
+    "temperature": 7.94,
+    "co2": 9207.23,
+    "type": "DATA",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739935702657,
+    "temperature": 7.87,
+    "co2": 9255.62,
+    "type": "DATA",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739936002657,
+    "temperature": 7.93,
+    "co2": 9211.98,
+    "type": "DATA",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739936302657,
+    "temperature": 8.05,
+    "co2": 9428.14,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739936602657,
+    "temperature": 7.97,
+    "co2": 9433.04,
+    "type": "DATA",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739936902657,
+    "temperature": 8.42,
+    "co2": 9275.55,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739937202657,
+    "temperature": 8.32,
+    "co2": 9288.85,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739937502657,
+    "temperature": 8.55,
+    "co2": 9374.29,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739937802657,
+    "temperature": 8.76,
+    "co2": 9428.56,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739938102657,
+    "temperature": 8.63,
+    "co2": 9389.88,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739938402657,
+    "temperature": 8.57,
+    "co2": 10676.42,
+    "type": "ALERT_BOTH",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739938702657,
+    "temperature": 8.55,
+    "co2": 10042.14,
+    "type": "ALERT_BOTH",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739939002657,
+    "temperature": 8.46,
+    "co2": 9915.72,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739939302657,
+    "temperature": 8.88,
+    "co2": 9812.67,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739939602657,
+    "temperature": 8.88,
+    "co2": 9780.11,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739939902657,
+    "temperature": 8.98,
+    "co2": 9794.36,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739940202657,
+    "temperature": 8.76,
+    "co2": 9777.85,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739940502657,
+    "temperature": 9.08,
+    "co2": 9622.3,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739940802657,
+    "temperature": 8.93,
+    "co2": 9789.81,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739941102657,
+    "temperature": 9.14,
+    "co2": 9654.88,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739941402657,
+    "temperature": 9.26,
+    "co2": 9813.0,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739941702657,
+    "temperature": 9.43,
+    "co2": 9898.07,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739942002657,
+    "temperature": 9.26,
+    "co2": 9842.96,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739942302657,
+    "temperature": 9.35,
+    "co2": 9830.59,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739942602657,
+    "temperature": 9.21,
+    "co2": 9753.89,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739942902657,
+    "temperature": 9.52,
+    "co2": 9947.66,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739943202657,
+    "temperature": 9.29,
+    "co2": 10009.87,
+    "type": "ALERT_BOTH",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739943502657,
+    "temperature": 9.21,
+    "co2": 9999.7,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739943802657,
+    "temperature": 9.35,
+    "co2": 9925.13,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739944102657,
+    "temperature": 9.37,
+    "co2": 9805.77,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739944402657,
+    "temperature": 9.35,
+    "co2": 9933.99,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739944702657,
+    "temperature": 9.32,
+    "co2": 10030.93,
+    "type": "ALERT_BOTH",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739945002657,
+    "temperature": 9.19,
+    "co2": 9991.24,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739945302657,
+    "temperature": 9.17,
+    "co2": 10063.52,
+    "type": "ALERT_BOTH",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739945602657,
+    "temperature": 9.31,
+    "co2": 10002.3,
+    "type": "ALERT_BOTH",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739945902657,
+    "temperature": 9.29,
+    "co2": 9999.17,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739946202657,
+    "temperature": 9.38,
+    "co2": 9881.22,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739946502657,
+    "temperature": 9.52,
+    "co2": 9958.22,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739946802657,
+    "temperature": 9.48,
+    "co2": 9932.91,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739947102657,
+    "temperature": 9.53,
+    "co2": 9970.14,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739947402657,
+    "temperature": 9.59,
+    "co2": 9948.39,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739947702657,
+    "temperature": 9.72,
+    "co2": 10002.4,
+    "type": "ALERT_BOTH",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739948002657,
+    "temperature": 9.83,
+    "co2": 9907.1,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739948302657,
+    "temperature": 9.62,
+    "co2": 9994.97,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739948602657,
+    "temperature": 9.48,
+    "co2": 10076.83,
+    "type": "ALERT_BOTH",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739948902657,
+    "temperature": 9.57,
+    "co2": 9890.92,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739949202657,
+    "temperature": 9.8,
+    "co2": 9869.32,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739949502657,
+    "temperature": 9.61,
+    "co2": 9987.29,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739949802657,
+    "temperature": 9.34,
+    "co2": 9956.4,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739950102657,
+    "temperature": 9.44,
+    "co2": 9949.41,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739950402657,
+    "temperature": 9.41,
+    "co2": 9951.31,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739950702657,
+    "temperature": 9.39,
+    "co2": 9898.46,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739951002657,
+    "temperature": 9.41,
+    "co2": 9863.76,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739951302657,
+    "temperature": 9.52,
+    "co2": 9747.84,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739951602657,
+    "temperature": 9.54,
+    "co2": 9980.66,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739951902657,
+    "temperature": 9.58,
+    "co2": 9833.9,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739952202657,
+    "temperature": 9.46,
+    "co2": 9777.53,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739952502657,
+    "temperature": 9.61,
+    "co2": 9960.47,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739952802657,
+    "temperature": 9.59,
+    "co2": 9790.88,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739953102657,
+    "temperature": 9.54,
+    "co2": 9794.34,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739953402657,
+    "temperature": 9.2,
+    "co2": 9762.18,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739953702657,
+    "temperature": 9.02,
+    "co2": 9752.58,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739954002657,
+    "temperature": 8.89,
+    "co2": 9907.53,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739954302657,
+    "temperature": 8.94,
+    "co2": 9803.64,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739954602657,
+    "temperature": 8.89,
+    "co2": 9874.43,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739954902657,
+    "temperature": 8.94,
+    "co2": 9869.58,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739955202657,
+    "temperature": 8.73,
+    "co2": 9888.81,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739955502657,
+    "temperature": 9.05,
+    "co2": 9640.48,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739955802657,
+    "temperature": 8.98,
+    "co2": 9644.11,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739956102657,
+    "temperature": 8.76,
+    "co2": 9584.31,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739956402657,
+    "temperature": 8.72,
+    "co2": 9658.48,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739956702657,
+    "temperature": 8.85,
+    "co2": 9504.63,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739957002657,
+    "temperature": 8.96,
+    "co2": 9517.08,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739957302657,
+    "temperature": 8.62,
+    "co2": 9502.22,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739957602657,
+    "temperature": 8.64,
+    "co2": 9553.16,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739957902657,
+    "temperature": 8.36,
+    "co2": 10936.96,
+    "type": "ALERT_BOTH",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739958202657,
+    "temperature": 8.22,
+    "co2": 10132.65,
+    "type": "ALERT_BOTH",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739958502657,
+    "temperature": 8.25,
+    "co2": 9892.37,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739958802657,
+    "temperature": 10.46,
+    "co2": 9640.3,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739959102657,
+    "temperature": 9.46,
+    "co2": 9347.56,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739959402657,
+    "temperature": 10.27,
+    "co2": 9412.38,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739959702657,
+    "temperature": 9.22,
+    "co2": 9212.57,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739960002657,
+    "temperature": 8.52,
+    "co2": 9305.09,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739960302657,
+    "temperature": 8.17,
+    "co2": 9335.78,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739960602657,
+    "temperature": 7.84,
+    "co2": 9395.86,
+    "type": "DATA",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739960902657,
+    "temperature": 7.92,
+    "co2": 9330.95,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739961202657,
+    "temperature": 7.99,
+    "co2": 9207.96,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739961502657,
+    "temperature": 7.97,
+    "co2": 9148.64,
+    "type": "DATA",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739961802657,
+    "temperature": 7.98,
+    "co2": 9040.66,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739962102657,
+    "temperature": 7.98,
+    "co2": 9093.34,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739962402657,
+    "temperature": 7.89,
+    "co2": 9055.76,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739962702657,
+    "temperature": 7.99,
+    "co2": 9116.95,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739963002657,
+    "temperature": 7.83,
+    "co2": 8937.24,
+    "type": "DATA",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739963302657,
+    "temperature": 7.85,
+    "co2": 9026.63,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739963602657,
+    "temperature": 7.78,
+    "co2": 8972.83,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739963902657,
+    "temperature": 7.71,
+    "co2": 8938.82,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739964202657,
+    "temperature": 7.5,
+    "co2": 8762.76,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739964502657,
+    "temperature": 7.53,
+    "co2": 8670.22,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739964802657,
+    "temperature": 7.39,
+    "co2": 8524.57,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739965102657,
+    "temperature": 7.44,
+    "co2": 8484.31,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739965402657,
+    "temperature": 7.12,
+    "co2": 8474.89,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739965702657,
+    "temperature": 6.98,
+    "co2": 9212.24,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739966002657,
+    "temperature": 6.97,
+    "co2": 8753.15,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739966302657,
+    "temperature": 6.98,
+    "co2": 8525.93,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739966602657,
+    "temperature": 6.9,
+    "co2": 8439.6,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739966902657,
+    "temperature": 6.79,
+    "co2": 8496.65,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739967202657,
+    "temperature": 6.55,
+    "co2": 8462.42,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739967502657,
+    "temperature": 6.46,
+    "co2": 8345.74,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739967802657,
+    "temperature": 6.49,
+    "co2": 8355.43,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739968102657,
+    "temperature": 6.42,
+    "co2": 8219.82,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739968402657,
+    "temperature": 6.55,
+    "co2": 8033.89,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739968702657,
+    "temperature": 6.14,
+    "co2": 7991.67,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739969002657,
+    "temperature": 6.13,
+    "co2": 7964.12,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739969302657,
+    "temperature": 6.29,
+    "co2": 8044.16,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739969602657,
+    "temperature": 6.22,
+    "co2": 8000.0,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739969902657,
+    "temperature": 5.79,
+    "co2": 7977.35,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739970202657,
+    "temperature": 5.72,
+    "co2": 7818.44,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739970502657,
+    "temperature": 5.61,
+    "co2": 7850.56,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739970802657,
+    "temperature": 5.74,
+    "co2": 7850.17,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739971102657,
+    "temperature": 5.5,
+    "co2": 7758.41,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739971402657,
+    "temperature": 5.47,
+    "co2": 7724.39,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739971702657,
+    "temperature": 5.18,
+    "co2": 7591.79,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739972002657,
+    "temperature": 5.09,
+    "co2": 7543.97,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739972302657,
+    "temperature": 5.14,
+    "co2": 7555.31,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739972602657,
+    "temperature": 5.22,
+    "co2": 7578.77,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739972902657,
+    "temperature": 4.99,
+    "co2": 7572.17,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739973202657,
+    "temperature": 4.85,
+    "co2": 8322.3,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739973502657,
+    "temperature": 4.83,
+    "co2": 7941.95,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739973802657,
+    "temperature": 4.71,
+    "co2": 7733.71,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739974102657,
+    "temperature": 4.66,
+    "co2": 7468.28,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739974402657,
+    "temperature": 4.66,
+    "co2": 7254.52,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739974702657,
+    "temperature": 4.77,
+    "co2": 7295.68,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739975002657,
+    "temperature": 4.61,
+    "co2": 7387.11,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739975302657,
+    "temperature": 4.48,
+    "co2": 7381.06,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739975602657,
+    "temperature": 4.13,
+    "co2": 7262.09,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739975902657,
+    "temperature": 4.35,
+    "co2": 7085.3,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739976202657,
+    "temperature": 4.15,
+    "co2": 7154.8,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739976502657,
+    "temperature": 4.29,
+    "co2": 7223.64,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739976802657,
+    "temperature": 4.34,
+    "co2": 7210.25,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739977102657,
+    "temperature": 4.01,
+    "co2": 7138.03,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739977402657,
+    "temperature": 3.77,
+    "co2": 7003.65,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739977702657,
+    "temperature": 3.52,
+    "co2": 6980.75,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739978002657,
+    "temperature": 3.62,
+    "co2": 6922.38,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739978302657,
+    "temperature": 3.78,
+    "co2": 6730.61,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739978602657,
+    "temperature": 3.65,
+    "co2": 6851.25,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739978902657,
+    "temperature": 3.37,
+    "co2": 6919.38,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739979202657,
+    "temperature": 3.3,
+    "co2": 6735.49,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739979502657,
+    "temperature": 3.17,
+    "co2": 6745.51,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739979802657,
+    "temperature": 3.24,
+    "co2": 6748.25,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739980102657,
+    "temperature": 3.31,
+    "co2": 6778.62,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739980402657,
+    "temperature": 3.04,
+    "co2": 6706.88,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739980702657,
+    "temperature": 3.08,
+    "co2": 6764.18,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739981002657,
+    "temperature": 4.45,
+    "co2": 6730.21,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739981302657,
+    "temperature": 3.55,
+    "co2": 6576.68,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739981602657,
+    "temperature": 3.1,
+    "co2": 6382.37,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739981902657,
+    "temperature": 2.93,
+    "co2": 6379.3,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739982202657,
+    "temperature": 2.68,
+    "co2": 6393.48,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739982502657,
+    "temperature": 2.58,
+    "co2": 6468.08,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739982802657,
+    "temperature": 2.49,
+    "co2": 6325.55,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739983102657,
+    "temperature": 2.69,
+    "co2": 6222.55,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739983402657,
+    "temperature": 2.76,
+    "co2": 6236.34,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739983702657,
+    "temperature": 2.75,
+    "co2": 6176.89,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739984002657,
+    "temperature": 2.56,
+    "co2": 6293.54,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739984302657,
+    "temperature": 2.51,
+    "co2": 6198.72,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739984602657,
+    "temperature": 2.63,
+    "co2": 6277.91,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739984902657,
+    "temperature": 2.66,
+    "co2": 6104.06,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739985202657,
+    "temperature": 2.39,
+    "co2": 6129.75,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739985502657,
+    "temperature": 2.46,
+    "co2": 6040.15,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739985802657,
+    "temperature": 2.27,
+    "co2": 6154.63,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739986102657,
+    "temperature": 2.21,
+    "co2": 6238.19,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739986402657,
+    "temperature": 2.09,
+    "co2": 6030.35,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739986702657,
+    "temperature": 1.98,
+    "co2": 6124.34,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739987002657,
+    "temperature": 2.01,
+    "co2": 6158.63,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739987302657,
+    "temperature": 2.22,
+    "co2": 6163.82,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739987602657,
+    "temperature": 2.16,
+    "co2": 6207.25,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739987902657,
+    "temperature": 2.15,
+    "co2": 6215.39,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739988202657,
+    "temperature": 1.87,
+    "co2": 6220.52,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739988502657,
+    "temperature": 1.94,
+    "co2": 6099.86,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739988802657,
+    "temperature": 1.95,
+    "co2": 5959.38,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739989102657,
+    "temperature": 2.12,
+    "co2": 6039.99,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739989402657,
+    "temperature": 2.15,
+    "co2": 6123.72,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739989702657,
+    "temperature": 2.12,
+    "co2": 6179.24,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739990002657,
+    "temperature": 1.85,
+    "co2": 6136.34,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739990302657,
+    "temperature": 1.81,
+    "co2": 5980.72,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739990602657,
+    "temperature": 1.73,
+    "co2": 6096.75,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739990902657,
+    "temperature": 4.26,
+    "co2": 6012.05,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739991202657,
+    "temperature": 2.95,
+    "co2": 7446.34,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739991502657,
+    "temperature": 2.49,
+    "co2": 6659.35,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739991802657,
+    "temperature": 2.14,
+    "co2": 7027.67,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739992102657,
+    "temperature": 1.93,
+    "co2": 6372.55,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739992402657,
+    "temperature": 1.78,
+    "co2": 7016.33,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739992702657,
+    "temperature": 1.69,
+    "co2": 6633.51,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739993002657,
+    "temperature": 1.87,
+    "co2": 6196.55,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739993302657,
+    "temperature": 2.12,
+    "co2": 6110.53,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739993602657,
+    "temperature": 2.2,
+    "co2": 6144.38,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739993902657,
+    "temperature": 3.71,
+    "co2": 6031.72,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739994202657,
+    "temperature": 3.08,
+    "co2": 5989.89,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739994502657,
+    "temperature": 2.7,
+    "co2": 5965.04,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739994802657,
+    "temperature": 2.63,
+    "co2": 5958.33,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739995102657,
+    "temperature": 2.45,
+    "co2": 5914.69,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739995402657,
+    "temperature": 2.47,
+    "co2": 5862.42,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739995702657,
+    "temperature": 2.2,
+    "co2": 5894.81,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739996002657,
+    "temperature": 2.1,
+    "co2": 6095.05,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739996302657,
+    "temperature": 2.07,
+    "co2": 6106.32,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739996602657,
+    "temperature": 2.36,
+    "co2": 6104.67,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739996902657,
+    "temperature": 2.45,
+    "co2": 6231.2,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739997202657,
+    "temperature": 2.28,
+    "co2": 6179.34,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739997502657,
+    "temperature": 2.44,
+    "co2": 6136.57,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739997802657,
+    "temperature": 2.64,
+    "co2": 6168.33,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739998102657,
+    "temperature": 2.49,
+    "co2": 6160.6,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739998402657,
+    "temperature": 2.69,
+    "co2": 6103.38,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739998702657,
+    "temperature": 2.9,
+    "co2": 6069.5,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739999002657,
+    "temperature": 2.99,
+    "co2": 6258.87,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739999302657,
+    "temperature": 2.66,
+    "co2": 6187.8,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739999602657,
+    "temperature": 2.52,
+    "co2": 6397.16,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1739999902657,
+    "temperature": 2.81,
+    "co2": 6273.13,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740000202657,
+    "temperature": 2.61,
+    "co2": 6411.77,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740000502657,
+    "temperature": 2.71,
+    "co2": 6444.83,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740000802657,
+    "temperature": 2.95,
+    "co2": 6323.7,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740001102657,
+    "temperature": 3.22,
+    "co2": 6427.84,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740001402657,
+    "temperature": 3.03,
+    "co2": 6375.02,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740001702657,
+    "temperature": 3.01,
+    "co2": 6371.31,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740002002657,
+    "temperature": 2.96,
+    "co2": 6501.8,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740002302657,
+    "temperature": 2.96,
+    "co2": 6618.99,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740002602657,
+    "temperature": 3.1,
+    "co2": 6709.17,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740002902657,
+    "temperature": 3.38,
+    "co2": 6619.84,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740003202657,
+    "temperature": 3.38,
+    "co2": 6833.12,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740003502657,
+    "temperature": 3.6,
+    "co2": 6879.97,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740003802657,
+    "temperature": 3.85,
+    "co2": 7947.68,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740004102657,
+    "temperature": 3.72,
+    "co2": 7278.59,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740004402657,
+    "temperature": 3.53,
+    "co2": 7108.08,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740004702657,
+    "temperature": 3.82,
+    "co2": 7156.28,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740005002657,
+    "temperature": 4.01,
+    "co2": 8467.74,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740005302657,
+    "temperature": 4.21,
+    "co2": 7870.94,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740005602657,
+    "temperature": 4.18,
+    "co2": 7435.84,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740005902657,
+    "temperature": 4.15,
+    "co2": 7284.38,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740006202657,
+    "temperature": 4.06,
+    "co2": 7056.89,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740006502657,
+    "temperature": 4.0,
+    "co2": 7115.67,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740006802657,
+    "temperature": 3.97,
+    "co2": 7237.84,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740007102657,
+    "temperature": 4.06,
+    "co2": 7273.8,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740007402657,
+    "temperature": 4.08,
+    "co2": 7217.06,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740007702657,
+    "temperature": 4.49,
+    "co2": 7405.87,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740008002657,
+    "temperature": 4.8,
+    "co2": 7286.98,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740008302657,
+    "temperature": 4.66,
+    "co2": 7273.23,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740008602657,
+    "temperature": 5.01,
+    "co2": 7216.34,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740008902657,
+    "temperature": 5.01,
+    "co2": 7427.5,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740009202657,
+    "temperature": 5.14,
+    "co2": 7398.7,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740009502657,
+    "temperature": 5.21,
+    "co2": 7470.1,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740009802657,
+    "temperature": 5.05,
+    "co2": 7494.4,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740010102657,
+    "temperature": 5.02,
+    "co2": 7616.49,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740010402657,
+    "temperature": 4.97,
+    "co2": 7614.43,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740010702657,
+    "temperature": 4.98,
+    "co2": 7824.64,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740011002657,
+    "temperature": 5.33,
+    "co2": 7874.72,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740011302657,
+    "temperature": 5.49,
+    "co2": 7738.56,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740011602657,
+    "temperature": 5.84,
+    "co2": 7694.76,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740011902657,
+    "temperature": 5.95,
+    "co2": 7757.08,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740012202657,
+    "temperature": 5.91,
+    "co2": 7748.26,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740012502657,
+    "temperature": 5.88,
+    "co2": 7924.21,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740012802657,
+    "temperature": 5.96,
+    "co2": 8011.13,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740013102657,
+    "temperature": 5.87,
+    "co2": 8167.96,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740013402657,
+    "temperature": 5.99,
+    "co2": 8251.77,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740013702657,
+    "temperature": 6.1,
+    "co2": 8098.86,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740014002657,
+    "temperature": 6.33,
+    "co2": 8277.82,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740014302657,
+    "temperature": 6.45,
+    "co2": 8339.2,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740014602657,
+    "temperature": 6.73,
+    "co2": 8459.51,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740014902657,
+    "temperature": 6.92,
+    "co2": 8551.65,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740015202657,
+    "temperature": 6.61,
+    "co2": 8509.96,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740015502657,
+    "temperature": 6.67,
+    "co2": 8454.46,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740015802657,
+    "temperature": 6.98,
+    "co2": 8328.17,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740016102657,
+    "temperature": 6.82,
+    "co2": 8494.69,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740016402657,
+    "temperature": 6.96,
+    "co2": 8552.03,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740016702657,
+    "temperature": 6.93,
+    "co2": 8649.95,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740017002657,
+    "temperature": 7.11,
+    "co2": 8517.05,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740017302657,
+    "temperature": 7.03,
+    "co2": 8649.93,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740017602657,
+    "temperature": 7.43,
+    "co2": 8686.06,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740017902657,
+    "temperature": 7.24,
+    "co2": 8793.04,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740018202657,
+    "temperature": 7.52,
+    "co2": 8806.33,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740018502657,
+    "temperature": 7.63,
+    "co2": 8759.81,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740018802657,
+    "temperature": 7.79,
+    "co2": 8748.19,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740019102657,
+    "temperature": 7.91,
+    "co2": 8901.12,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740019402657,
+    "temperature": 7.93,
+    "co2": 8888.54,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740019702657,
+    "temperature": 7.85,
+    "co2": 9040.69,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740020002657,
+    "temperature": 7.93,
+    "co2": 9037.82,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740020302657,
+    "temperature": 7.99,
+    "co2": 8962.35,
+    "type": "DATA",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740020602657,
+    "temperature": 8.06,
+    "co2": 9059.21,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740020902657,
+    "temperature": 7.84,
+    "co2": 9201.22,
+    "type": "DATA",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740021202657,
+    "temperature": 7.9,
+    "co2": 9252.44,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740021502657,
+    "temperature": 7.96,
+    "co2": 9088.46,
+    "type": "DATA",
+    "fanState": false,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740021802657,
+    "temperature": 8.18,
+    "co2": 9171.66,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740022102657,
+    "temperature": 8.27,
+    "co2": 9122.82,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740022402657,
+    "temperature": 8.11,
+    "co2": 9220.61,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740022702657,
+    "temperature": 8.24,
+    "co2": 9329.19,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740023002657,
+    "temperature": 8.31,
+    "co2": 9430.42,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740023302657,
+    "temperature": 8.28,
+    "co2": 9415.51,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740023602657,
+    "temperature": 8.33,
+    "co2": 9574.83,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740023902657,
+    "temperature": 8.52,
+    "co2": 9638.1,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740024202657,
+    "temperature": 8.32,
+    "co2": 9710.01,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740024502657,
+    "temperature": 8.46,
+    "co2": 9617.72,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740024802657,
+    "temperature": 8.84,
+    "co2": 9489.66,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740025102657,
+    "temperature": 10.8,
+    "co2": 9477.21,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740025402657,
+    "temperature": 9.78,
+    "co2": 9639.58,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740025702657,
+    "temperature": 9.44,
+    "co2": 9524.8,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740026002657,
+    "temperature": 9.24,
+    "co2": 9468.56,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740026302657,
+    "temperature": 8.95,
+    "co2": 9586.56,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740026602657,
+    "temperature": 8.8,
+    "co2": 10705.69,
+    "type": "ALERT_BOTH",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740026902657,
+    "temperature": 8.7,
+    "co2": 10292.27,
+    "type": "ALERT_BOTH",
+    "fanState": true,
+    "compuertaState": true
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740027202657,
+    "temperature": 8.66,
+    "co2": 9921.52,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740027502657,
+    "temperature": 9.0,
+    "co2": 9771.84,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740027802657,
+    "temperature": 8.99,
+    "co2": 9760.75,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740028102657,
+    "temperature": 9.3,
+    "co2": 9868.29,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  },
+  {
+    "thingName": "MiDispositivoIoT",
+    "timestamp": 1740028402657,
+    "temperature": 9.35,
+    "co2": 9996.41,
+    "type": "ALERT_TEMP",
+    "fanState": true,
+    "compuertaState": false
+  }
+]
