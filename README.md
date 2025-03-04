@@ -55,6 +55,11 @@ Este proyecto tiene como objetivo desarrollar un **sistema IoT** que monitoree l
 - **MQTT** (futuro sprint)
 - **GitHub para control de versiones**
 
+## 📌 Documentación
+- 📄 [Documentación Original](https://acortar.link/GCjdKK)
+- 📑 [Informe Final](https://acortar.link/S1zUbb)
+- 📹 Mira el video aquí: [YouTube Video](https://youtu.be/lOH5lWU1oyY)
+
 ## 📌 Contribución
 1. **Hacer un fork** del repositorio.
 2. **Crear una rama** con tu mejora:
@@ -70,3 +75,4 @@ Este proyecto tiene como objetivo desarrollar un **sistema IoT** que monitoree l
 
 ## 📌 Contacto
 Para dudas o mejoras, contacta a **Yeyson Samir Cano Carbajo**.
+
